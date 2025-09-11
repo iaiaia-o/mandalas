@@ -1,6 +1,5 @@
-// ATENCIÓN: Cuando tengas el backend listo en Render, deberás poner aquí la URL correcta.
-// Por ejemplo: const BACKEND_URL = "https://mandalas-backend.onrender.com/api/mandala";
-const BACKEND_URL = "https://TU_BACKEND_RENDER_URL/api/mandala";
+// ATENCIÓN: Ya está lista la URL correcta del backend en Render.
+const BACKEND_URL = "https://mandalas-backend2.onrender.com/api/mandala";
 
 // Esta función se llama al pulsar el botón "Generar Mandala IA"
 function generarMandala() {
